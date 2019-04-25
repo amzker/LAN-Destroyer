@@ -1,0 +1,10 @@
+#!/usr/bin/python
+import os
+a = os.system
+a("sudo dpkg -i Amzy.deb")
+a("Apkg AmzDos.Amzx")
+a("Apkg Amzkill.Amzx")
+a("Apkg Fastscan.Amzx")
+a("Apkg LAN-Destroyer")
+a("date")
+
