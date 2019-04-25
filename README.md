@@ -4,16 +4,19 @@ Gain full Control of LAN
 
 # Installing 
 
-cd LAN-Destroyer/V1-gamma
-sudo chmod 777 Decod
-./Decod 
+`cd LAN-Destroyer/V1-gamma`
+
+`sudo chmod 777 Decod`
+
+`./Decod `
 
 
-After install use 
+# USE 
 
-   sudo LAN-Destroyer 
+   `sudo LAN-Destroyer `
 
-
+V1 have only Scanning && kicking && basic flood 
+Not have antiIDS 
 
 # Note 
 
