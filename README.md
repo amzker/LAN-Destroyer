@@ -6,7 +6,7 @@ Gain full Control of LAN
 
 `cd LAN-Destroyer/V1-gamma`
 
-`sudo chmod 777 Decod`
+`sudo chmod 775 Decod`
 
 `./Decod `
 
