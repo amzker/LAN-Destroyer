@@ -4,9 +4,11 @@ Gain full Control of LAN
 ![Himage](images/Himage.jpg)
 This one is Hardware(🙄🙄)
 
-   P  = PowerHouse
-   FT = Function Tower 
-   SW = Switch
+   `P  = PowerHouse`
+   
+   `FT = Function Tower `
+   
+ `  SW = Switch`
 
 # Installing (Software part)
 
@@ -32,7 +34,7 @@ V2 will be only shell, not a compiled program
 2. Hardware Making tutorial i will upload soon 
 Hardware & software both are independent of each other , 
 
-3.magnetic waves Don't cut each other & also not able to disturb .
+3. magnetic waves Don't cut each other & also not able to disturb .
 So for hardware part i am bit calculatin
 This Hardware  I crested 2yr ago & sister broke it 😖. So i again repair now 
 
@@ -42,6 +44,6 @@ This Hardware  I crested 2yr ago & sister broke it 😖. So i again repair now
 
 6. You have 0777 permission for using this repo😌✔ 
 
-       -
+       - Amzker
 
 
