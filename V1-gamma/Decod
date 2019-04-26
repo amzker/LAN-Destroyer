@@ -5,6 +5,9 @@ a("sudo dpkg -i Amzy.deb")
 a("Apkg AmzDos.Amzx")
 a("Apkg Amzkill.Amzx")
 a("Apkg Fastscan.Amzx")
-a("Apkg LAN-Destroyer")
+a("Apkg LAN-Destroyer.Amzx")
+a("sleep 2 ; clear ")
 a("date")
+a("echo "installed || sudo LAN-Destroyer"")
+
 
