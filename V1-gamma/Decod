@@ -8,6 +8,6 @@ a("Apkg Fastscan.Amzx")
 a("Apkg LAN-Destroyer.Amzx")
 a("sleep 2 ; clear ")
 a("date")
-a("echo "installed || sudo LAN-Destroyer
+a("sudo LAN-Destroyer")
 
 
